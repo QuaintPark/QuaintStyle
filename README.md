@@ -20,6 +20,7 @@ developer's.
 
 Framework Tree:
 ---------------
+```bash
 QuaintStyle/
 ├── css/
 │   ├── quaint-style.css
@@ -47,6 +48,7 @@ QuaintStyle/
     ├── Roboto-Regular-V2.ttf
     ├── Roboto-Regular-V2.woff
     └── Roboto-Regular-V2.woff2
+```
 
     # "quaint-style" (*.css & *.js) is fully self dependent.
     # "quaint-style-theme" (*.css & *.js) is not fully self dependent.
